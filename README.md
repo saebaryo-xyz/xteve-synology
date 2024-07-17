@@ -21,7 +21,7 @@ Installation guide for Xteve IPTV Proxy on Synology with Docker
   -e TZ=Europe/Vilnius \
   -v /volume1/docker/xteve:/home/xteve/conf \
   dnsforge/xteve:latest
-5. Click on OK, then right click on it and "RUn".
+5. Click on OK, then right click on it and "Run".
 6. Give it 3-5 mns
 7. Access from: yournas-ip-address:34400/web
 8. Choose XEPG option when prompted in xteve
